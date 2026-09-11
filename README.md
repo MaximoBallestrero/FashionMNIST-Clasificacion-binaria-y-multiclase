@@ -17,7 +17,7 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · DuckDB
 
 ## Informe
 
-El análisis completo, con las conclusiones detalladas, está en [`informe.pdf`](./informe.pdf).
+El análisis completo, con las conclusiones detalladas, está en en [Informe TP-02 Laboratorio de datos.pdf](./Informe%20TP-02%20Laboratorio%20de%20datos.pdf).
 
 ## Autoría
 
