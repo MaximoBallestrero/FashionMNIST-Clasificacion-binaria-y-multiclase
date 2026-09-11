@@ -1,6 +1,6 @@
 # Clasificación de imágenes de indumentaria — Fashion-MNIST
 
-Proyecto grupal de la materia [nombre de la materia], FCEyN – Universidad de Buenos Aires (UBA).
+Proyecto grupal de la materia Laboratorio de Datos, FCEyN – Universidad de Buenos Aires (UBA).
 
 ## Descripción
 
@@ -21,4 +21,4 @@ El análisis completo, con las conclusiones detalladas, está en [`informe.pdf`]
 
 ## Autoría
 
-Proyecto grupal realizado junto a [nombres o usuarios de GitHub de tus compañeros]. Las consignas y herramientas a utilizar fueron definidas por la cátedra; el desarrollo, análisis y código fueron elaborados por el grupo.
+Proyecto grupal realizado junto a Juana Maria Leiton y Guadalupe Cataneo. Las consignas y herramientas a utilizar fueron definidas por la cátedra; el desarrollo, análisis y código fueron elaborados por el grupo.
